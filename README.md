@@ -25,6 +25,7 @@ I'm Rio, an independent developer passionate about building innovative solutions
 ### Reach me on
 - <a href="https://linkedin.com/in/sintariosatya/">LinkedIn</a>
 - sintarios000@gmail.com
+- <a href="https://www.boot.dev/u/srios000">Boot.dev Profile</a>
 
 <!--
 **srios000/srios000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
