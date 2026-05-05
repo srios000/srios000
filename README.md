@@ -6,17 +6,17 @@ I'm Rio, an independent developer passionate about building innovative solutions
 - 📫 How to reach me: sintarios000@gmail.com
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://cdn.simpleicons.org/javascript" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.simpleicons.org/react/58c4dc" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next.js" width="21px" src="https://cdn.simpleicons.org/next.js" /></a>
-  <a href="https://nestjs.com/"><img align="left" alt="Next" title="NestJS" width="21px" src="https://cdn.simpleicons.org/nestjs" /></a>
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="35px" src="https://cdn.simpleicons.org/go" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.simpleicons.org/python" /></a>
-  <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://cdn.simpleicons.org/r" /></a>
+  <a href="https://www.javascript.com"><img alt="JavaScript" title="JavaScript" width="21px" src="https://cdn.simpleicons.org/javascript" /></a>
+  <a href="https://reactjs.org/"><img alt="React" title="React" width="21px" src="https://cdn.simpleicons.org/react/58c4dc" /></a>
+  <a href="https://nextjs.org/"><img alt="Next" title="Next.js" width="21px" src="https://cdn.simpleicons.org/next.js" /></a>
+  <a href="https://nestjs.com/"><img alt="Next" title="NestJS" width="21px" src="https://cdn.simpleicons.org/nestjs" /></a>
+  <a href="https://go.dev/"><img alt="Golang" title="Golang" width="21px" src="https://cdn.simpleicons.org/go" /></a>
+  <a href="https://www.python.org/"><img alt="Python" title="Python" width="21px" src="https://cdn.simpleicons.org/python" /></a>
+  <a href="https://www.r-project.org/"><img alt="R" title="R" width="21px" src="https://cdn.simpleicons.org/r" /></a>
   <br>
 
 ### Github Statistic
-<p align="left">
+<p>
 <a href="https://github.com/srios000">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srios000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srios000&layout=compact&langs_count=8&theme=algolia"/>
