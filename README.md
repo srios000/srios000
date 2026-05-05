@@ -6,13 +6,13 @@ I'm Rio, an independent developer passionate about building innovative solutions
 - 📫 How to reach me: sintarios000@gmail.com
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://cdn.simpleicons.org/javascript" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.simpleicons.org/react/58c4dc" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next.js" width="21px" src="https://cdn.simpleicons.org/next.js" /></a>
   <a href="https://nestjs.com/"><img align="left" alt="Next" title="NestJS" width="21px" src="https://cdn.simpleicons.org/nestjs" /></a>
-  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-  <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" /></a>
+  <a href="https://go.dev/"><img align="left" alt="Golang" title="Golang" width="35px" src="https://cdn.simpleicons.org/go" /></a>
+  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.simpleicons.org/python" /></a>
+  <a href="https://www.r-project.org/"><img align="left" alt="R" title="R" width="21px" src="https://cdn.simpleicons.org/r" /></a>
   <br>
 
 ### Github Statistic
